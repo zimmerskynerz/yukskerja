@@ -16,7 +16,7 @@ We are aware that this application is far from perfect, therefore, we ask for yo
 
 In it's later development, this application will also provide online job training which will be guided by professionals in each field, so YuksKerja.com will be an application specifically for offline and online workers. On the other hand, we also need donors or investors who will help us in terms of funding.
 
-Information Business :
+Information Business : <br>
 dev@yukskerja.com
 dev.awhome@gmail.com
 
