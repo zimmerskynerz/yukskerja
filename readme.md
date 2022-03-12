@@ -1,4 +1,4 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://www.matawebsite.com/images/blog/348_code_igniter_framework_php_yang_cepat_dan_ringan.jpg" width="400"></a></p>
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://blog.yukskerja.com/wp-content/uploads/2022/02/cropped-YJ.png" width="400"></a></p>
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
@@ -17,9 +17,9 @@ We are aware that this application is far from perfect, therefore, we ask for yo
 In it's later development, this application will also provide online job training which will be guided by professionals in each field, so YuksKerja.com will be an application specifically for offline and online workers. On the other hand, we also need donors or investors who will help us in terms of funding.
 
 Information Business : <br>
-dev@yukskerja.com
-dev.awhome@gmail.com
+dev@yukskerja.com <br>
+dev.awhome@gmail.com <br>
 
-if you want to develop this application for improvement purposes, you can contact in :
-dev@yukskerja.com
+if you want to develop this application for improvement purposes, you can contact in : <br>
+dev@yukskerja.com<br>
 dev.awhome@gmail.com
